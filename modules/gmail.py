@@ -12,12 +12,13 @@ from email import encoders
 
 # Definir los alcances requeridos
 SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
+CREDENTIALS_DIR = os.path.join(os.path.dirname(__file__), "..", "credenciales")
 
 class GmailManager:
     def __init__(self):
         self.creds = None
-        self.token_path = os.path.join(os.path.dirname(__file__), "..", "credenciales", "token_gmail.pickle")
-        self.credentials_path = os.path.join(os.path.dirname(__file__), "..", "credenciales", "client_secret_app_escritorio_oauth.json")
+        self.token_path = os.path.join(CREDENTIALS_DIR, "token_gmail.pickle")
+        self.credentials_path = os.path.join(CREDENTIALS_DIR, "client_secret_app_escritorio_oauth.json")
 
         # Cargar credenciales si ya fueron autenticadas
         if os.path.exists(self.token_path):
