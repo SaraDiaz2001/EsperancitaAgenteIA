@@ -1,0 +1,52 @@
+Lista de Precios - Dataconsult  
+
+Consulta Básica de Análisis Estadístico:  
+Incluye servicios de análisis descriptivo de datos y generación de reportes simples.  
+
+- Análisis simple de datos y elaboración de reportes descriptivos.  
+  - Precio: 600,000 COP.  
+- Creación y análisis de encuestas personalizadas para recolección de datos.  
+  - Precio: 700,000 COP.  
+- Revisión de calidad y consistencia de los datos, asegurando su integridad.  
+  - Precio: 750,000 COP.  
+
+Consulta Avanzada de Análisis Estadístico:  
+Incluye análisis más complejos que pueden involucrar modelado estadístico, segmentación de mercado, proyecciones financieras y visualización avanzada de datos.  
+
+- Análisis complejo, modelado estadístico y visualización de datos.  
+  - Precio: 1,200,000 COP.  
+- Evaluación de datos financieros y proyecciones de ingresos y egresos.  
+  - Precio: 1,000,000 COP.  
+- Análisis de tendencias, segmentación de mercado y estudios de competencia.  
+  - Precio: 850,000 COP.  
+- Modelado predictivo usando algoritmos estadísticos para prever comportamientos futuros.  
+  - Precio: 1,500,000 COP.  
+- Análisis de entrevistas, grupos focales y datos no numéricos.  
+  - Precio: 950,000 COP.  
+- Implementación de soluciones para la gestión de datos empresariales y visualización.  
+  - Precio: 1,300,000 COP.  
+
+Capacitación:  
+- Capacitación sobre técnicas de análisis de datos utilizando software estadístico.  
+  - Precio: 500,000 COP por persona (mínimo 5 personas).  
+
+Paquetes de Servicios:  
+- **Paquete Básico (2 consultas de análisis básico de datos).**  
+  - Precio: 1,100,000 COP.  
+- **Paquete Avanzado (3 consultas avanzadas o de análisis específico).**  
+  - Precio: 3,200,000 COP.  
+
+Servicios Adicionales:  
+- **Entrega Expresa de Reportes (24 horas).**  
+  - Precio adicional: 250,000 COP.  
+
+Nota:  
+- **Consulta Básica**: Enfocada en análisis descriptivos y revisión de datos.  
+- **Consulta Avanzada**: Incluye técnicas más complejas como modelado predictivo, análisis financiero y segmentación de mercado.  
+
+
+
+
+
+
+

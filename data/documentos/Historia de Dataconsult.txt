@@ -1,0 +1,9 @@
+**Historia de Dataconsult**  
+
+Dataconsult es una empresa de consultoría estadística fundada en 2022 con el objetivo de ofrecer soluciones basadas en análisis de datos para la toma de decisiones estratégicas. Desde su creación, la empresa se ha especializado en diversas áreas, como análisis estadístico, investigación de mercado, inteligencia de negocios y auditoría de datos.  
+
+Inicialmente, Dataconsult comenzó trabajando con pequeñas y medianas empresas, ayudándolas a comprender mejor sus datos y a optimizar sus procesos. Gracias a la calidad y precisión de su trabajo, la empresa creció rápidamente y amplió su portafolio de servicios, incorporando modelos predictivos, análisis de riesgos y soluciones automatizadas de clasificación de datos.  
+
+Uno de sus principales logros ha sido la implementación de herramientas avanzadas basadas en modelos bayesianos para la predicción y gestión de incidentes, así como el desarrollo de dashboards interactivos para la visualización de datos empresariales.  
+
+Hoy en día, Dataconsult es reconocida por su enfoque en la innovación y su capacidad para transformar datos en información valiosa para la toma de decisiones. La empresa sigue expandiéndose y adaptándose a las nuevas tendencias del análisis de datos, brindando asesoría a organizaciones de diferentes sectores.

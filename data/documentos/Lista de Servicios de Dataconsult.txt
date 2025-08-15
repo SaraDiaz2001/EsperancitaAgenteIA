@@ -1,0 +1,27 @@
+Lista de Servicios de Dataconsult (Organizada por Categorías)  
+
+1. Análisis Estadístico y Modelado de Datos  
+- Análisis Estadístico Básico: Evaluación descriptiva de datos, cálculo de estadísticas clave y generación de visualizaciones básicas.  
+- Análisis Estadístico Avanzado: Pruebas de hipótesis, regresión, análisis multivariado y modelos predictivos.  
+- Modelado Predictivo y Análisis de Tendencias: Aplicación de modelos estadísticos avanzados para predecir patrones de comportamiento basados en datos históricos.  
+- Diseño y Optimización de Experimentos (DOE): Métodos estadísticos para optimizar procesos y mejorar la eficiencia en producción y desarrollo.  
+
+2. Finanzas y Gestión de Riesgos  
+- Análisis Financiero y Predicción de Riesgos: Evaluación de datos financieros, indicadores clave, rentabilidad y proyecciones de flujo de caja.  
+- Análisis y Gestión de Riesgos: Modelado de riesgos financieros, operativos o estratégicos para minimizar impactos y mejorar decisiones.  
+
+3. Investigación de Mercado y Encuestas  
+- Investigación de Mercado y Análisis de Tendencias: Segmentación de clientes, estudios de competencia y análisis de oportunidades.  
+- Diseño y Análisis de Encuestas: Elaboración de encuestas personalizadas y análisis detallado de respuestas.  
+
+4. Inteligencia de Negocios y Visualización de Datos  
+- Implementación de Inteligencia de Negocios (BI): Desarrollo de soluciones para recopilación, integración y visualización de datos en tiempo real.  
+- Visualización y Presentación de Datos: Creación de dashboards interactivos e informes con herramientas como Power BI y Tableau.  
+
+5. Validación y Calidad de Datos  
+- Análisis de Datos Cualitativos: Evaluación de entrevistas, grupos focales y respuestas abiertas con técnicas estadísticas.  
+- Auditoría y Validación de Datos: Revisión estructurada para garantizar la integridad, calidad y consistencia de los datos.  
+
+6. Capacitación y Asesoría Especializada  
+- Capacitación en Análisis de Datos: Programas personalizados para mejorar habilidades en estadística y uso de software especializado.  
+- Asesoría en Técnicas de Muestreo: Diseño y aplicación de metodologías de muestreo para estudios e investigaciones.
