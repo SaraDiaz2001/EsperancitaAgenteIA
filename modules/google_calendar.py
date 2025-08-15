@@ -11,6 +11,7 @@ SCOPES = ["https://www.googleapis.com/auth/calendar"]
 # IDs de los calendarios
 CALENDARIO_EVENTOS_PUBLICOS = "c_5feb504b9e2962b77f34d63d589ee4a8a16d656d334d37b20b51696f9bb632ec@group.calendar.google.com"
 CALENDARIO_CITAS = "c_7b62712679573ccab2e3cf3363cefdd6e65cc4ff20a0185a495afa3620f6e8ec@group.calendar.google.com"
+CREDENTIALS_DIR = os.path.join(os.path.dirname(__file__), "..", "credenciales")
 
 class GoogleCalendarManager:
     def __init__(self):
@@ -19,8 +20,8 @@ class GoogleCalendarManager:
     def _authenticate(self):
         creds = None
 
-        if os.path.exists(os.path.join(os.path.dirname(__file__), "credenciales", "token.json")):
-            creds = Credentials.from_authorized_user_file(os.path.join(os.path.dirname(__file__), "credenciales", "token.json"), SCOPES)
+        if os.path.exists(os.path.join(CREDENTIALS_DIR, "token.json")):
+            creds = Credentials.from_authorized_user_file(os.path.join(CREDENTIALS_DIR, "token.json"), SCOPES)
 
         if not creds or not creds.valid:
             if creds and creds.expired and creds.refresh_token:
