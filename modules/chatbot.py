@@ -41,7 +41,7 @@ calendar = GoogleCalendarManager()
 gmail = GmailManager()
 
 # Configurar el cliente de Together AI
-client = openai.OpenAI(api_key="710eeabbc5fbc82bb76912cad9607aa146e0f67060f2fda0b51b25975048db8f", base_url="https://api.together.xyz/v1")
+client = openai.OpenAI(api_key="TOGETHER_API_KEY", base_url="https://api.together.xyz/v1")
 
 # Configurar logging para errores
 logger = logging.getLogger(__name__)
