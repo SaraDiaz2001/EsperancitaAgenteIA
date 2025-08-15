@@ -95,7 +95,7 @@ with col1:
 # 💬 **Columna derecha: Chatbot**
 with col2:
     st.header("👵🏼 Esperancita: ¿En qué le colaboro mijito?")
-    st.write("💬 Cantelas")
+    st.write("💬 Pero no se demore pensando")
 
     # 👌 **Entrada fija del usuario**
     user_input = st.chat_input("¿Cómo te puedo ayudar...?")
